@@ -1,6 +1,6 @@
 # Workout Tracker
 
-A workout tracker will be created to monitor your activities. This project will require to create Mongo database with a Mongoose schema and handle routes with Express.
+A workout tracker will be created to monitor daily activities. This project will require to create Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
 
