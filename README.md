@@ -1,7 +1,7 @@
 # Workout Tracker
 
-Deployed: https://polar-reaches-13844.herokuapp.com/?id=5faad8dd879e3f0017ab515c
-A workout tracker will be created to monitor daily activities. The users can update, track and visualize all workout data from dashboard. This project will require to create Mongo database with a Mongoose schema and handle routes with Express.
+* Deployed: https://polar-reaches-13844.herokuapp.com/?id=5faad8dd879e3f0017ab515c
+* A workout tracker will be created to monitor daily activities. The users can update, track and visualize all workout data from dashboard. This project will require to create Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
 
@@ -32,3 +32,4 @@ The user should be able to:
 ## Screenshot
 
 * ![alt text](./public/assets/img/fitness.png)
+* ![alt text](./public/assets/img/dashboard.png)
