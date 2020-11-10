@@ -1,10 +1,11 @@
 # Workout Tracker
 
-A workout tracker will be created to monitor daily activities. This project will require to create Mongo database with a Mongoose schema and handle routes with Express.
+Deployed: https://polar-reaches-13844.herokuapp.com/?id=5faad8dd879e3f0017ab515c
+A workout tracker will be created to monitor daily activities. The users can update, track and visualize all workout data from dashboard. This project will require to create Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
 
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+* As a user, I want to be able to view, create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Business Context
 
